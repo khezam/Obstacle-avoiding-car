@@ -2,8 +2,10 @@
 
 ## Table of Contents:
 
-Introduction                          Page 3
+Introduction                         Page 3
+
 Prototype Design                      Page 4
+
 SolidWorks Design                     Pages 5-13
 
 ### Project description
@@ -16,3 +18,7 @@ Auto-sweeper consist of TIVA launchpad, 2 HC-SR04 Ultrasonic sensor, 2 DC motors
 
 
 Auto-sweeper consist of TIVA launchpad, 2 HC-SR04 Ultrasonic sensor, 2 DC motors and wheels, 1 DRV8833 dual motor driver. Two timers of the ARM Cortex M4 are used for calculating the distance of the obstacles using ultrasonic sensors. DC motor is driven by providing PWM voltage from the microcontroller. The architecture of the system is as follows:
+
+
+
+
